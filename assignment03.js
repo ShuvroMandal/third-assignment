@@ -42,4 +42,11 @@ console.log(check(fileName));
 
 /** Problem 05 -*/
 
+
+/** Problem 06 :  (Current Salary )  */
+let experience = 3;
+let startingSalary = 45000;
+let increaseSalary = startingSalary * experience * 0.05;
+startingSalary += increaseSalary;
+console.log(startingSalary);
     
