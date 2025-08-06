@@ -42,6 +42,8 @@ console.log(check(fileName));
 
 /** Problem 05 -*/
 
+var student = {name: "Goutam", roll:"1014", department:"cse"}
+
 
 /** Problem 06 :  (Current Salary )  */
 let experience = 3;
